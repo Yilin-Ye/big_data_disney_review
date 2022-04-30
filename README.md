@@ -14,7 +14,7 @@ Here you can find a directory to all the files within our repo that were used in
 ### [Dataset](https://github.com/Yilin-Ye/big_data_disney_review/tree/main/dataset)
 This Folder have the raw data and cleaned data for modeling and sentiment analysis. 
 
-## [EDA]()
+### [EDA]()
 This folder contains the code for exploratory data analysis on disney reviews and ratings. It explore all kinds of relationships between review, rating, branch. It gives us a rough idea about our future modeling and sentiment analysis.
 
 ### [Logistic Modeling](https://github.com/Yilin-Ye/big_data_disney_review/tree/main/logistic_modeling)
