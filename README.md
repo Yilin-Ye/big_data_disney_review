@@ -26,7 +26,7 @@ This folder contains the code for sentiment analysis on the reviews, it explored
 ### [Slides](https://github.com/Yilin-Ye/big_data_disney_review/tree/main/Slide)
 This folder contains the slides for this project.
 
-### [Report]()
+### [Report](https://github.com/Yilin-Ye/big_data_disney_review/tree/main/Report)
 This folder contains the report for this project.
 
 
